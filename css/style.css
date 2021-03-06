@@ -1,0 +1,86 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: public sans;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #fefefe;
+    color: #000D1A;
+    margin: 0 50px 500px 50px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #70879f;
+}
+
+p{
+    font-weight: 500;
+}
+
+
+
+h3{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.personal-details{
+    padding: 100px 0 100px 0;
+}
+
+.image{
+    background-image: url(Assets/adrian-swancar-4i4YyWAZbDY-unsplash.jpg);
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.picha{
+    float: left;
+    width: 60%;
+}
+
+.details{
+    font-size: 14px;
+    float: left;
+    width: 40%;
+}
+
+.row1{
+    float: left;
+    width: 50%;
+}
+
+
+.title h3{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+.time{
+    float: left;
+    width: 20%;
+    color: #70879f;
+    font-weight: 700;
+}
+
+.time-dets{
+    float: left;
+    width: 80%;
+}
+
+ul{
+    color: #70879f; 
+}
+
+.detail{
+    float: left;
+    width: 33.3%;
+}
